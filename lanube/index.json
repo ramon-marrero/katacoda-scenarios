@@ -8,6 +8,7 @@
       {
         "title": "Launch Apache Airflow",
         "courseData": "airflow.sh",
+        "code": "airflow.sh",
         "text": "step1.md"
       },
       {
