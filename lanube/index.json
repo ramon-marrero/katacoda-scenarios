@@ -10,7 +10,8 @@
           "file": "docker-compose.yml",
           "target": "~/"
         }
-      ],
+      ]
+    },
     "steps": [
       {
         "title": "Launch Apache Airflow",
