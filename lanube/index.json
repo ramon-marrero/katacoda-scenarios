@@ -8,7 +8,6 @@
       {
         "title": "Launch Apache Airflow",
         "courseData": "airflow.sh",
-        "code": "airflow.sh",
         "text": "step1.md"
       },
       {
@@ -32,9 +31,6 @@
   "environment": {
     "hideintro": true,
     "hidefinish": true,
-    "showvisualise": true,
-        "scope": "docker run --name airflow -d -p 8080:8080 puckel/docker-airflow",
-        "scopePort": 8080,
     "uilayout": "terminal-iframe"
   },
   "backend": {
