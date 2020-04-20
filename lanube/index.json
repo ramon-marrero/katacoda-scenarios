@@ -4,6 +4,8 @@
   "difficulty": "Beginner",
   "time": "15",
   "details": {
+    "intro": {
+      "courseData": "airflow.sh",
     "steps": [
       {
         "title": "Launch Apache Airflow",
@@ -25,15 +27,7 @@
         "title": "Create First Workflow",
         "text": "step5.md"
       }
-    ],
-    "assets": {
-      "client": [
-        {
-          "file": "docker-compose.yml",
-          "target": "~/"
-        }
-      ]
-    }
+    ]
   },
   "environment": {"hideintro": true,
           "hidefinish": true,
