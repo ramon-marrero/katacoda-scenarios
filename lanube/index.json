@@ -4,6 +4,13 @@
   "difficulty": "Beginner",
   "time": "15",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ],
     "steps": [
       {
         "title": "Launch Apache Airflow",
