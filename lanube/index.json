@@ -6,23 +6,23 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Launch Apache Airflow",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Navigate Airflow Interface",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Visualize Examples",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Overview of Connections",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Create First Workflow",
         "text": "step5.md"
       }
     ],
@@ -35,7 +35,7 @@
   },
   "environment": {"hideintro": true,
           "hidefinish": true,
-          "uilayout": "terminal-terminal"},
+          "uilayout": "terminal-iframe"},
   "backend": {
     "imageid": "airflow:1.10"
   }
