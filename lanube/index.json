@@ -26,11 +26,13 @@
         "text": "step5.md"
       }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {"hideintro": true,
