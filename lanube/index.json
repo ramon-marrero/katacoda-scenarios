@@ -33,7 +33,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {"hideintro": true,
+          "hidefinish": true,
+          "uilayout": "terminal-terminal"},
   "backend": {
     "imageid": "airflow:1.10"
   }
