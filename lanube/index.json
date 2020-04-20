@@ -4,12 +4,10 @@
   "difficulty": "Beginner",
   "time": "15",
   "details": {
-    "intro": {
-      "courseData": "airflow.sh"
-    },
     "steps": [
       {
         "title": "Launch Apache Airflow",
+        "courseData": "airflow.sh",
         "text": "step1.md"
       },
       {
