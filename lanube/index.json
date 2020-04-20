@@ -5,7 +5,8 @@
   "time": "15",
   "details": {
     "intro": {
-      "courseData": "airflow.sh",
+      "courseData": "airflow.sh"
+    },
     "steps": [
       {
         "title": "Launch Apache Airflow",
